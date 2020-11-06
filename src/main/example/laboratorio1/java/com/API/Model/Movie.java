@@ -8,7 +8,7 @@ public class Movie{
         this.id = id;
         this.titulo = titulo;
         this.año = año;
-        sssssssssssssssssssssssssssssssssssssssss
+        
     }
 
     private int id;
